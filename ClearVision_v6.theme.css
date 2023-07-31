@@ -18,8 +18,8 @@
   /* ACCENT COLORS */
   --main-color: #237EAF; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #237EAF; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
-  --success-color: #237EAF; /* success accent color (hex, rgb or hsl) [default: #43b581] */
-  --danger-color: #237EAF; /* danger accent color (hex, rgb or hsl) [default: #982929] */
+  --success-color: #2B9CD8; /* success accent color (hex, rgb or hsl) [default: #43b581] */
+  --danger-color: #2B9CD8; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
