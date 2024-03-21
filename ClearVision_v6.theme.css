@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.3); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://cdn.discordapp.com/attachments/1131962730702712844/1220505072539013150/battle_du_eylau.png?ex=660f2eed&is=65fcb9ed&hm=d27a1761c728855f007fab9a019d7d2f14993d7dd3227f2cae8b0c75bbf23912&); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.discordapp.com/attachments/1131962730702712844/1192872589496946799/image.png?ex=6606f12b&is=65f47c2b&hm=98baf2ebfcc8e56bb9e4da6edbce7dbcbfd66d2eef45df9983b44f1f62f46e63&); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
